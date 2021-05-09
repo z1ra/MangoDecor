@@ -1,0 +1,35 @@
+.nav-item{
+    margin: 1rem 1.3rem;
+    font-family: 'Montserrat', sans-serif;
+}
+
+nav{
+    text-align: center;
+    background-color: #c6ffc1;
+}
+
+.navbar-brand{
+    font-family: 'Oswald', sans-serif;
+}
+
+img{
+    width: 70px;
+}
+
+.soc{
+    font-size: 35px;
+    margin: auto 20px;
+}
+
+.a{
+    margin: auto 17px;
+    font-size: 35px;
+}
+
+.fab:hover{
+    color:#6c6c6c;
+}
+
+.h{
+    text-align: center;
+}
